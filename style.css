@@ -1,0 +1,168 @@
+ *{
+    background-color: #111;
+ }
+ 
+ 
+ .contiuner{
+    display: flex;
+    justify-content: space-around;
+    
+    
+    
+    
+}
+
+
+.list_parent{
+display: flex;
+justify-content: space-around;
+color: #fff;
+
+
+
+
+}
+
+.nac_1 {
+    display: flex;
+    color: #fff;
+    width: 30%;
+    justify-content: space-between;
+    list-style: none;
+    
+
+
+}
+
+.purches {
+    background-color: #fff;
+    color: #111;
+    padding: 10px;
+    border: 15px solid #fff;
+    align-self: flex-end;
+
+}
+
+.Theme_1 p{
+   align-self: flex-start;
+   
+}
+
+
+
+
+.top_logo {
+    color: #ffffff ; 
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.pargap{
+   color: #ffffff ; 
+    text-align: center;
+    font-size: medium;
+
+}
+
+.pic_1 img{
+padding: 10px;
+width: 30%;
+height: 30%;
+text-align: center; 
+justify-content: space-evenly;
+
+}
+
+.pargap_1 {
+    display: flex;
+    color: #fff;
+    justify-content: space-evenly;
+    list-style: none;
+    
+ 
+
+}
+.pic_2 img{
+padding: 10px;
+width: 30%;
+height: 30%;
+text-align: center; 
+justify-content: space-evenly;
+
+}
+
+.pargap_2{
+    display: flex;
+    color: #fff;
+    justify-content: space-evenly;
+    list-style: none;
+
+}
+
+
+
+.pic_3 img{
+    padding: 10px;
+    width: 30%;
+    height: 30%;
+    text-align: center; 
+    justify-content: space-evenly;
+    
+    }
+    
+.pargap_3 {
+    display: flex;
+    color: #fff;
+    justify-content: space-evenly;
+    list-style: none;
+   
+    
+}
+
+
+
+.inter {
+    color: #fff;
+    display: flex;
+justify-content: space-evenly;
+
+
+}
+
+.Left{
+padding: 10px;
+color: #fff;
+display: flex;
+justify-content: flex-start;
+
+}
+
+
+
+
+
+.coentiunr{
+    background-color: #fff;
+    height: 100%; 
+    display: flex;
+    justify-content: center;
+}
+
+.coentiunr .imgg1, .imgg2{
+    width: 35%;
+    height:35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    
+}
+
+.h1{
+    display: flex;
+    justify-content: right;
+    color: #fff;
+    background-color: #fff;
+}
+
